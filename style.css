@@ -7,6 +7,10 @@
     cursor: pointer;
     background-color: rgb(160, 247, 196);
 }
+.common-btn{
+    letter-spacing: 0;
+    transition: letter-spacing 2s;
+}
 .common-btn:hover{
     letter-spacing: 2px;
 }
